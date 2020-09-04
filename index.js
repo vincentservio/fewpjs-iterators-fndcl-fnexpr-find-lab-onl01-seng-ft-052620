@@ -6,6 +6,6 @@ function testFunc() {
 
 function superbowlWin(array){
   array.find(res => res.result === "w")
-    return year
+    return res.year
   
 }
