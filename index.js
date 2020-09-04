@@ -4,8 +4,8 @@ function testFunc() {
   return "hi"
 }
 
-function superbowlWin(res){
-  array.find(res => res.result === "w")
-    return res.year
+function superbowlWin(array){
+  array.find(res => res.result"w")
+    return year
   
 }
