@@ -4,7 +4,7 @@ function testFunc() {
   return "hi"
 }
 
-function superbowlWin(record){
-  let result = record.find( record => record.result === "W" )
+function superbowlWin(rec){
+  let res = record.find( rec => rec.result === "W" )
   return !!result ? result.year : undefined
 }
